@@ -1,0 +1,4 @@
+== 0.11.0 / 2009-08-04
+
+*  Removed useless files 
+  * Corrected version number 
